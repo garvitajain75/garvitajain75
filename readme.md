@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Garvita%20Jain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/garvitajain75)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Garvita%20Jain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/garvitajain25)
 [![GitHub](https://img.shields.io/badge/GitHub-garvitajain75-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/garvitajain75)
 [![Email](https://img.shields.io/badge/Email-garvitajain592%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garvitajain592@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Alwar%2C%20Rajasthan-10B981?style=for-the-badge)](https://github.com/garvitajain75)
